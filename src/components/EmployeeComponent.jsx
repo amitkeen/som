@@ -68,9 +68,7 @@ const EmployeeComponent = () => {
     }
     return (
         <div className='container'>
-
             <br /> <br />
-
             <div className='row'>
                 <div className='card col-md-6 offset-md-3 offset-md-3'>
                     <h2 className='text-center'> Add Employees</h2>
